@@ -1,0 +1,5 @@
+bank_data是通过Wind收集到40家银行的数据
+
+marco_data是Wind收集到的宏观变量的数据
+
+covar_value是程序导出来我们要研究的14家上市银行的数据
